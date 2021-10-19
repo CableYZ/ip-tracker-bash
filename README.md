@@ -18,7 +18,7 @@ INSTALLATION :
 
       apt install git curl -y
 
-      git clonehttps://github.com/CableYZ/ip-tracker-bash/tree/main
+      git clone https://github.com/CableYZ/ip-tracker-bash/tree/main
 
       cd ip-tracker-bash
       
